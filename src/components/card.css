@@ -1,0 +1,6 @@
+.custom-card-img:hover img{
+    overflow: hidden;
+}
+.custom-card-img img{
+    transition: all 3s;
+}
